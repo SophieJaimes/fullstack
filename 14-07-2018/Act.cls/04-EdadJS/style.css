@@ -1,0 +1,25 @@
+h1 {
+  color: #DF0101;
+  text-align: center
+}
+h2 {
+  text-align: center
+}
+#subtitulo { 
+    color: grey;
+}
+#footer {
+	background-color: #BDBDBD
+}
+.classA{
+	background-color: #D8D8D8
+}
+.classB{
+	background-color: #D8D8D8
+}
+[marcador1]{
+	background-color: #E6E6E6
+}
+[marcador2]{
+	background-color: #F6CEF5
+}

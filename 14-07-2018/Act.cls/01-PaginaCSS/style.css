@@ -1,0 +1,21 @@
+html {
+  background-color: #dd99ff;
+}
+p {
+  color: #000099;
+}
+aside {
+	padding: 50px;
+	background:#ccc;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-align: center;
+}
+div {
+  background-image: url(https://gotconquest.com/images/got-trailer-thumb-mobile.jpg);
+  width: 615px;
+  height: 346px;
+}
